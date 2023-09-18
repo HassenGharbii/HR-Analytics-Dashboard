@@ -1,2 +1,5 @@
-# HR-Analytics-Dashboard
-This Git repository contains a Tableau dashboard aimed at visualizing and analyzing HR data It provides a snapshot of key trends, insights, and actionable information derived from the data.
+# Tableau Dashboard Repository
+
+Welcome to the Tableau Dashboard Repository! This repository houses a data visualization project created using Tableau. The dashboard is designed to analyze HR data 
+
+![Uploading Capture.PNG…]()
